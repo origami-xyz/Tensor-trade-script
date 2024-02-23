@@ -24,7 +24,7 @@ This repository contains a compiled and optimized Python script designed for sea
 - Edit config.json with your data and launch script.
 - Add layer images by folders, set up rarity settings, select folder to save.
 - Input your Solana private key. Ensure that you do not utilize your primary account or seed phrase
-- Do not set the price higher than the floor! Otherwise, you risk losing all your ETH to random NFTs.
+- Do not set the price higher than the floor! Otherwise, you risk losing all your SOL to random NFTs.
 
 
 ## Usage Instructions
