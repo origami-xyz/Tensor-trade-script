@@ -42,15 +42,3 @@ This repository contains a compiled script for seamless trading operations withi
     "volumeScan": "true"
   }
 }
-
-
-### Usage Instructions
-The repository includes comprehensive documentation and instructions for deploying and utilizing the compiled script. Follow the steps provided to set up and initiate trading activities within the TensorTrade NFT marketplace, benefitting from ChatGPT-powered strategies without extensive coding or configuration.
-
-
-### Note
-While the script integrates advanced ChatGPT strategies, understanding NFT market dynamics and employing risk management practices are crucial for successful trading.
-
----
-
-**Disclaimer:** This repository is for educational and experimental purposes only. Always perform due diligence and use at your own risk.
